@@ -1,0 +1,6 @@
+How to run:
+make test    -builds and runs both unit test programs
+make bench   -builds and runs the matrix benchmark
+make align   -builds and runs the Salmonella alignment
+make clean   -removes the binaries
+
